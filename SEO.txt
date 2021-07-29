@@ -1,0 +1,4 @@
+Agregue las siguientes keywords en todas las paginas: Paddle, tenis, pelotas, paletas, indumentaria
+Modifique los tittles a todas las paginas, utilizando una descripcion de la misma, como por ejemplo el Index Venta de indumentaria y paletas de Paddle
+Agregue las description de la pagina, "pagina de paddle y ventas"
+Agregue SVG para la optimizacion del footer.
